@@ -1,4 +1,4 @@
-  Shalom Njue | Python Developer | Automation & AI Tools
+  **Shalom Njue | Python Developer | Automation & AI Tools**
 
   Building practical tools that solve actual problems. Based in Nairobi, Kenya.
 
